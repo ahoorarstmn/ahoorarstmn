@@ -11,12 +11,10 @@ I'm a PhD student in computational finance, working on the applications of deep 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/ahoorarstmn)  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahoorarstmn&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahoorarstmn" />
-</a>
+<p align="center">
+<img height="230" src="https://github-readme-stats.vercel.app/api?username=ahoorarstmn&show_icons=true" align = "center"/>
+<img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahoorarstmn" align = "center"/>
+</p>
 
 
 ![Profile views](https://gpvc.arturio.dev/ahoorarstmn)  
