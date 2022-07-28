@@ -18,8 +18,8 @@ I'm a PhD student in completion, studying computational finance at the Universit
 
 
 <p align="center">
-<img height="100em" src="https://github-readme-stats.vercel.app/api?username=ahoorarstmn&show_icons=true&theme=vue" align = "center"/>
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahoorarstmn&theme=vue&layout=compact" align = "center"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ahoorarstmn&show_icons=true&theme=vue" align = "center"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahoorarstmn&theme=vue&layout=compact" align = "center"/>
 </p>
 
 
