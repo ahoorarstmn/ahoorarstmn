@@ -17,4 +17,5 @@
 </p>
 
 
-![Profile views](https://gpvc.arturio.dev/ahoorarstmn)  
+
+![](https://komarev.com/ghpvc/?username=ahoorarstmn&color=green)
