@@ -1,7 +1,7 @@
 <img src="banner_Medium.jpg" width=1280, height=380>
 
 ### Hi there 🙋🏻‍♂️, Ahoora here,
-#### 🖥️ I’m a quant researcher working on a project which utilises **computer vision** techniques in **financial forecasting** and **decision making**.
+
 ---
 
 
