@@ -1,10 +1,9 @@
 <img src="banner_Medium.jpg" width=1280, height=380>
 
 ### Hi there 🙋🏻‍♂️, Ahoora here,
-#### Excited about anything data science and machine learning
+#### 🖥️ I’m a quant researcher working on a project which utilises **computer vision** techniques in **financial forecasting** and **decision making**.
 ---
 
-- 🖥️ I’m quant reseacher working on a project which utilises **computer vision** techniques in **financial forecasting** and **decision making**. 
 
 
 <h4 align="left">Languages and Tools:</h4>
