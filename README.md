@@ -1,4 +1,4 @@
-<img src="banner_D.jpg" width=1280, height=380>
+<img src="banner_D.png" width=1280, height=380>
 
 ### Hi there 🙋🏻‍♂️, Ahoora here,
 
